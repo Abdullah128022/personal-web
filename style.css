@@ -92,3 +92,7 @@ section{
 .fot-align{
     text-align: center;
 }
+.client-image{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
